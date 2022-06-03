@@ -34,8 +34,7 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 LAPACHO TV FORMOSA
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
-#EXTINF:-1, STAR
-https://edge3-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1, CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1, CINECANAL
@@ -78,10 +77,11 @@ https://edge-live13-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1, ESPN 4
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1, ESPN
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1, FOX SPORTS
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1, FOX SPORTS 2
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1, FOX SPORTS 3
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1, HISTORY
-https://edge3-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-#EXTINF:-1, HISTORY 2
-https://edge3-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
