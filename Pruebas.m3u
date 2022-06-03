@@ -32,7 +32,7 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
-#EXTINF:-1 LAPACHO TV FORMOSA
+#EXTINF:-1, LAPACHO TV FORMOSA
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
 #EXTINF:-1, CINEMAX
@@ -53,9 +53,13 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 #EXTINF:-1, WARMER
 https://edge3-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1, PARAMOUNT
+https://edge3-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1, NICKELODEON
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 #EXTINF:-1, NICK JR
@@ -83,5 +87,9 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1, FOX SPORTS 3
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1, ESPN PREMIUM
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1, TNT SPORTS HD
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
