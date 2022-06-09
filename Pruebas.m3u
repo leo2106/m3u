@@ -32,8 +32,20 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
+#EXTINF:-1, CHACO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w141992378.m3u8
+#EXTINF:-1, CIUDAD TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w409466754.m3u8
+#EXTINF:-1, CANAL 13 CORRIENTES
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1076859451.m3u8
+#EXTINF:-1, CANAL 9 LITORAL
+https://stream.arcast.live/ahora/ahora/chunklist_w999975801.m3u8
+#EXTINF:-1, MULTIMEDIOS
+https://panel.dattalive.com/8250/8250/chunklist_w156892798.m3u8
 #EXTINF:-1, LAPACHO TV FORMOSA
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1, CANAL 10 CORDOBA
+https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b1408000.m3u8
 
 #EXTINF:-1, CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
