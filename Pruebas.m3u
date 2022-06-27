@@ -52,8 +52,6 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b14080
 
 #EXTINF:-1, TNT
 https://edge3-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1, SPACE
-https://edge3-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1, CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1, CINECANAL
@@ -62,8 +60,6 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3
 https://edge3-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1, TBS
 https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
-#EXTINF:-1, STUDIO
-https://edge3-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1, HBO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1, HBO PLUS
