@@ -52,6 +52,8 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b14080
 
 #EXTINF:-1, TNT
 https://edge3-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, SPACE
+https://edge3-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1, CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1, CINECANAL
@@ -70,8 +72,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1, HBO2
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1, HBO LATINO
-https://edge3-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1, AMC
 https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 #EXTINF:-1, WARMER
@@ -79,7 +79,7 @@ https://edge3-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1, PARAMOUNT
 https://edge3-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1, LIFETIME
-https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-.m3u8
+https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
