@@ -10,17 +10,20 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1, TV PUBLICA 
 https://edge3-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1, CANAL 9 
-https://edge3-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-avc1_2499968=10007.m3u8
 #EXTINF:-1, TELEFE 
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1, EL TRECE
-https://edge3-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_2499968=10007.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1, MAGAZINE
-https://edge3-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10000.m3u8
 #EXTINF:-1, VOLVER
 https://edge3-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+#EXTINF:-1, SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1, CRONICA TV
 https://edge3-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1, A24
@@ -47,6 +50,8 @@ https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1, CANAL 10 CORDOBA
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b1408000.m3u8
 
+#EXTINF:-1, TNT
+https://edge3-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_3450000=10010.m3u8
 #EXTINF:-1, CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1, CINECANAL
@@ -55,12 +60,18 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3
 https://edge3-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1, TBS
 https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
-#EXTINF:-1, SYFY
-https://edge3-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1, STUDIO
+https://edge3-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004.m3u8
+#EXTINF:-1, HBO
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_3900000=10004.m3u8
+#EXTINF:-1, HBO PLUS
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10007.m3u8
 #EXTINF:-1, HBO FAMILY
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1, HBO2
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1, HBO LATINO
+https://edge3-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1, AMC
 https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 #EXTINF:-1, WARMER
