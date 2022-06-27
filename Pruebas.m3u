@@ -78,6 +78,8 @@ https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1, PARAMOUNT
 https://edge3-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1, LIFETIME
+https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-avc1_2499968=10006.m3u8
 
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
