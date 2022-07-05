@@ -1,4 +1,3 @@
-
 #EXTM3U 
 
 
@@ -6,21 +5,21 @@
 
 
 #EXTINF:-1, AMERICA TV
-https://edge3-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV-avc1_579968=10004-scale=30000-init.mp4
 #EXTINF:-1, TV PUBLICA 
-https://edge3-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+https://dtvott-abc.akamaized.net/dash_live_1156/dash/1156_LA_TV_PUBLICA-video=875600.dash
 #EXTINF:-1, CANAL 9 
-https://edge3-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:-1, TELEFE 
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1657049327~exp=1657056527~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=c7187767e909d68a377032cab768ace84e61274b47c076059e7b5f4e8542d2bc
 #EXTINF:-1, EL TRECE
-https://edge3-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1, MAGAZINE
-https://edge3-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VOLVER
-https://edge3-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+
 #EXTINF:-1, SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, VIX CINECLUB
@@ -29,13 +28,13 @@ https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1, CRONICA TV
-https://edge3-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 #EXTINF:-1, A24
-https://edge3-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 #EXTINF:-1, TN
-https://edge3-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+https://rr7---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com/videoplayback?expire=1657081636&ei=xLrEYtbPDa6jobIPpqyE-AE&ip=190.138.68.143&id=wHn1_QVoXGM.12&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxaxjvh5gbxoupo5-jo9l%2Csn-j5cax8pnpvo-x1xek&ms=lva%2Crdu&mv=m&mvi=7&pl=22&rmhost=rr1---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com%2C&smhost=%2Crr3---sn-j5cax8pnpvo-x1xey.googlevideo.com&initcwndbps=340000&spc=lT-KhjfrvLODihC-XxnuMuTSzbBRprc&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GNG4TUe0NZOJ0gz52SowUKgH&gir=yes&mt=1657059636&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=oGRukDzSUzpcJA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgIgxmUygINVCDf8LSAxjv7h9RpRNUxtgaCixgayU4t98CIQDnmOLTpiqR7ji24InYMWAgwVFlmJCBy2N3acP36yba2A%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgJErQyZBxuiFGeKx3oJheG6O1P0kAxl26eel9VubwIxgCID8aM9Etoz_KyE--NuIEbKR2LVlhqzKhUlsJeQlo5iM8&alr=yes&cpn=pn7tS-aHn6YeGm88&cver=1.20220629.01.00&sq=3633349&rn=3&rbuf=4894
 #EXTINF:-1, CANAL 26
-https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+https://edge5-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD-avc1_3000000=10004-init.mp4
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
@@ -53,47 +52,52 @@ https://panel.dattalive.com/8250/8250/chunklist_w156892798.m3u8
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1, CANAL 10 CORDOBA
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b1408000.m3u8
+#EXTINF:-1, CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w1744520419_b316000.m3u8
 
 #EXTINF:-1, TNT
-https://edge3-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1, CINEMAX
-https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 #EXTINF:-1, CINECANAL
-https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+#EXTINF:-1, SPACEHD
+https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 #EXTINF:-1, FX
-https://edge3-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 #EXTINF:-1, TBS
-https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 #EXTINF:-1, HBO
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1, HBO FAMILY
-https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1, HBO2
-https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1, AMC
-https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 #EXTINF:-1, WARMER
-https://edge3-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 #EXTINF:-1, PARAMOUNT
-https://edge3-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 #EXTINF:-1, LIFETIME
-https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
-
+https://edge3.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
+#EXTINF:-1, GENTV
+https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1, NICKELODEON
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 #EXTINF:-1, NICK JR
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#EXTINF:-1, BOOMERANG
+https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 #EXTINF:-1, CARTOON NETWORK
-https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-https://edge3-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1, DISNEY JUNIOR
+https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1, TYC SPORTS
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+https://ed7.zorrohd2.nl/live/flowac8c8a92ab3535e.m3u8
 #EXTINF:-1, DEPORT TV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1, DIRECTV PLUS
@@ -106,22 +110,21 @@ https://ed5.zorrohd.nl/live/ST96261e37cddcc9c.m3u8
 #EXTINF:-1, GOLTV
 https://ed3.zorrohd.nl/live/ST412c08bf3969afd.m3u8
 #EXTINF:-1, ESPN
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+https://ed7.zorrohd2.nl/live/flowitc7vb9.m3u8
 #EXTINF:-1, ESPN 2
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+https://ed7.zorrohd2.nl/live/flowitc80br.m3u8
 #EXTINF:-1, ESPN 3
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+https://ed7.zorrohd2.nl/live/flowitc82eo.m3u8
 #EXTINF:-1, ESPN 4
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1, FOX SPORTS
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+https://ed7.zorrohd2.nl/live/flowitcj1qx.m3u8
 #EXTINF:-1, FOX SPORTS 2
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+https://ed3.zorrohd2.nl/live/flowitcj6no.m3u8
 #EXTINF:-1, FOX SPORTS 3
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+https://ed3.zorrohd2.nl/live/STe3e78f647ed3276.m3u8
 #EXTINF:-1, ESPN PREMIUM
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+https://ed3.zorrohd2.nl/live/flowitc8ws5.m3u8
 #EXTINF:-1, TNT SPORTS HD
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
+https://ed7.zorrohd2.nl/live/flowitck24y.m3u8
 
