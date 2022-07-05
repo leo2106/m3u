@@ -23,6 +23,10 @@ https://edge3-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 #EXTINF:-1, SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1, VIX CINECLUB
+https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1, VIX ORO
+https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1, CRONICA TV
 https://edge3-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
@@ -62,8 +66,6 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1, HBO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1, HBO PLUS
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1, HBO FAMILY
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1, HBO2
@@ -94,6 +96,15 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChan
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1, DEPORT TV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1, DIRECTV PLUS
+https://ed3.zorrohd.nl/live/flowitc96js.m3u8
+#EXTINF:-1, DIRECTV SPORTS
+https://ed7.zorrohd.nl/live/flowitc91zh.m3u8
+#EXTINF:-1, DIRECTV SPORTS 2
+#EXTINF:-1, WIN.CO SPORTS
+https://ed5.zorrohd.nl/live/ST96261e37cddcc9c.m3u8
+#EXTINF:-1, GOLTV
+https://ed3.zorrohd.nl/live/ST412c08bf3969afd.m3u8
 #EXTINF:-1, ESPN
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1, ESPN 2
