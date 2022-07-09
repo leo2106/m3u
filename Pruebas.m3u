@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1, AMERICA TV
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV-avc1_899968=10002-scale=30000-7119661917458.mp4
+
 #EXTINF:-1, TV PUBLICA 
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7-avc1_2499968=10007-scale=30000-7119663258919.mp4
+
 #EXTINF:-1, CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1, TELEFE 
@@ -104,7 +104,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1, TYC SPORTS
-https://ed7.zorrohd2.nl/live/flowac8c8a92ab3535e.m3u8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31340
 #EXTINF:-1, TyC Sports Internacional SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233945
 ##EXTINF:-1, Directv Sports 1 HD
@@ -124,8 +124,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26533
 #EXTINF:-1, FOX SPORTS 3
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158180
 #EXTINF:-1, ESPN PREMIUM
-https://ed3.zorrohd2.nl/live/flowitc8ws5.m3u8
+hhttp://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233836
 #EXTINF:-1, TNT SPORTS HD
-https://ed3.zorrohd2.nl/live/flowitck24y.m3u8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233835
 
 
