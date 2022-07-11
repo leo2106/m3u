@@ -11,7 +11,7 @@
 #EXTINF:-1, CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1, TELEFE 
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 #EXTINF:-1, EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NET TV
@@ -20,21 +20,22 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VOLVER
 
-#EXTINF:-1, SONY NOVELAS
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1, VIX CINECLUB
-https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1, VIX ORO
-https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
+
 
 #EXTINF:-1, CRONICA TV
 https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 #EXTINF:-1, A24
 https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 #EXTINF:-1, TN
-https://rr7---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com/videoplayback?expire=1657081636&ei=xLrEYtbPDa6jobIPpqyE-AE&ip=190.138.68.143&id=wHn1_QVoXGM.12&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxaxjvh5gbxoupo5-jo9l%2Csn-j5cax8pnpvo-x1xek&ms=lva%2Crdu&mv=m&mvi=7&pl=22&rmhost=rr1---sn-uxaxjvh5gbxoupo5-jo9l.googlevideo.com%2C&smhost=%2Crr3---sn-j5cax8pnpvo-x1xey.googlevideo.com&initcwndbps=340000&spc=lT-KhjfrvLODihC-XxnuMuTSzbBRprc&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GNG4TUe0NZOJ0gz52SowUKgH&gir=yes&mt=1657059636&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=oGRukDzSUzpcJA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgIgxmUygINVCDf8LSAxjv7h9RpRNUxtgaCixgayU4t98CIQDnmOLTpiqR7ji24InYMWAgwVFlmJCBy2N3acP36yba2A%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgJErQyZBxuiFGeKx3oJheG6O1P0kAxl26eel9VubwIxgCID8aM9Etoz_KyE--NuIEbKR2LVlhqzKhUlsJeQlo5iM8&alr=yes&cpn=pn7tS-aHn6YeGm88&cver=1.20220629.01.00&sq=3633349&rn=3&rbuf=4894
+https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1, CANAL 26
-https://edge5-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD-avc1_3000000=10004-init.mp4
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:-1, IP
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1, LN
+https://www.youtube.com/watch?v=HYxWurJ3ejE 
+#EXTINF:-1, KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
@@ -54,6 +55,12 @@ https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1710980837_b1408000.m3u8
 #EXTINF:-1, CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w1744520419_b316000.m3u8
+#EXTINF:-1, CIUDAD MAGICA TV
+https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8
+#EXTINF:-1, CANAL SEIS MAR DEL PLATA 
+https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
+#EXTINF:-1, BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1, TNT
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
@@ -79,19 +86,25 @@ https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD
 https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 #EXTINF:-1, LIFETIME
 https://edge3.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
-https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-#EXTINF:-1, GOLDEN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=gnhd985MEsPlKq0YuKlu2Q&expires=1657080554&ip=190.138.68.143
-#EXTINF:-1, MP
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=sj1qbzzC7jN7Q8VzsvIXhA&expires=1657080647&ip=190.138.68.143
-#EXTINF:-1, STAR CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=5_OJ7pG-cxFmrz9TM8Mqfg&expires=1657080765&ip=190.138.68.143
-#EXTINF:-1, GENTV
-https://videohd.live:19360/8010/8010.m3u8
+
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1, SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1, VIX CINECLUB
+https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1, VIX ORO
+https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,24/7 Bob Esponja
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/302769
+#EXTINF:-1,24/7 Los Simpsons HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40858
+#EXTINF:-1,24/7 Los Simpsons Temp 6-10
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102338
+#EXTINF:-1,24/7 Los Simpsons Temp 11-15
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102703
 #EXTINF:-1, NICKELODEON
 https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 #EXTINF:-1, NICK JR
@@ -104,28 +117,25 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1, TYC SPORTS
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31340
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1, TyC Sports Internacional SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233945
-##EXTINF:-1, Directv Sports 1 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26524
-EXTINF:-1, Directv Sports + HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103065
-#EXTINF:-1, ESPN HD
+#EXTINF:-1, ESPN
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115725
-#EXTINF:-1, ESPN 2 HD
+#EXTINF:-1, ESPN 2
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31814
 #EXTINF:-1, ESPN 3 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31815
 #EXTINF:-1, FOX SPORTS
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26531
 #EXTINF:-1, FOX SPORTS 2
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26533
 #EXTINF:-1, FOX SPORTS 3
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158180
 #EXTINF:-1, ESPN PREMIUM
-hhttp://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233836
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2338362
 #EXTINF:-1, TNT SPORTS HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233835
+
 
 
