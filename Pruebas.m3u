@@ -32,10 +32,7 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:-1, IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1, LN
-https://www.youtube.com/watch?v=HYxWurJ3ejE 
-#EXTINF:-1, KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
+
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
@@ -91,22 +88,9 @@ https://edge3.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetim
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
-#EXTINF:-1, SONY NOVELAS
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1, VIX CINECLUB
-https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1, VIX ORO
-https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1,24/7 Bob Esponja
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/302769
-#EXTINF:-1,24/7 Los Simpsons HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40858
-#EXTINF:-1,24/7 Los Simpsons Temp 6-10
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102338
-#EXTINF:-1,24/7 Los Simpsons Temp 11-15
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102703
+
 #EXTINF:-1, NICKELODEON
-https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
+hhttp://23.148.145.49:9001/televall2022/572_.m3u8?token=A3lxCrd0s7Gxa9oS2Fe4ag&expires=1658021096
 #EXTINF:-1, NICK JR
 
 #EXTINF:-1, BOOMERANG
@@ -117,9 +101,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1, TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+http://tutv.online:2080/cliente5_abril_00e/fepG9YabtyJd/52989
 #EXTINF:-1, TyC Sports Internacional SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233945
+http://23.148.145.49:8081/televall2022/641_.m3u8?token=JnkNnLFsi-BCm88zcGRcbw&expires=1658021458
 #EXTINF:-1, ESPN
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115725
 #EXTINF:-1, ESPN 2
@@ -133,9 +117,9 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26533
 #EXTINF:-1, FOX SPORTS 3
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158180
 #EXTINF:-1, ESPN PREMIUM
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2338362
+http://tutv.online:2080/cliente1_abril_00e/Xvuf6NDP2LPs/52992
 #EXTINF:-1, TNT SPORTS HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233835
+http://tutv.online:2080/cliente4_abril_00e/GM2U7QJAM4hR/52994
 
 
 
