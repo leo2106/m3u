@@ -5,27 +5,24 @@
 
 
 #EXTINF:-1, AMERICA TV
-
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1, TV PUBLICA 
-
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 #EXTINF:-1, CANAL 9 
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
 #EXTINF:-1, TELEFE 
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8 
 #EXTINF:-1, EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1, MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
-#EXTINF:-1, VOLVER
-
-
 
 #EXTINF:-1, CRONICA TV
-https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 #EXTINF:-1, A24
-https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1, CANAL 26
@@ -60,39 +57,32 @@ https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1, TNT
-https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1, CINEMAX
-https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
-#EXTINF:-1, CINECANAL
-https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+https://ubnet.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1, SPACEHD
-https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 #EXTINF:-1, FX
-https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-#EXTINF:-1, TBS
-https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+https://ubnet.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1, HBO
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+https://ubnet.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1, HBO2
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+https://ubnet.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1, AMC
-https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 #EXTINF:-1, WARMER
-https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-#EXTINF:-1, PARAMOUNT
-https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-#EXTINF:-1, LIFETIME
-https://edge3.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
 
 #EXTINF:-1, SONY COMEDIA
-https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, COMEDY CENTRAL
-https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/track_3_6000/playlist.m3u8
 
 #EXTINF:-1, NICKELODEON
-hhttp://23.148.145.49:9001/televall2022/572_.m3u8?token=A3lxCrd0s7Gxa9oS2Fe4ag&expires=1658021096
+https://ubnet.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF:-1, NICK JR
-
+https://ubnet.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 #EXTINF:-1, BOOMERANG
 https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 #EXTINF:-1, CARTOON NETWORK
@@ -101,25 +91,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1, TYC SPORTS
-http://tutv.online:2080/cliente5_abril_00e/fepG9YabtyJd/52989
-#EXTINF:-1, TyC Sports Internacional SD
-http://23.148.145.49:8081/televall2022/641_.m3u8?token=JnkNnLFsi-BCm88zcGRcbw&expires=1658021458
-#EXTINF:-1, ESPN
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115725
-#EXTINF:-1, ESPN 2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31814
-#EXTINF:-1, ESPN 3 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31815
-#EXTINF:-1, FOX SPORTS
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26531
-#EXTINF:-1, FOX SPORTS 2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26533
-#EXTINF:-1, FOX SPORTS 3
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158180
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1, ESPN PREMIUM
-http://tutv.online:2080/cliente1_abril_00e/Xvuf6NDP2LPs/52992
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 #EXTINF:-1, TNT SPORTS HD
-http://tutv.online:2080/cliente4_abril_00e/GM2U7QJAM4hR/52994
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 
 
