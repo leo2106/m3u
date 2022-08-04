@@ -5,26 +5,26 @@
 
 
 #EXTINF:-1, AMERICA TV
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1, TV PUBLICA 
 https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 #EXTINF:-1, CANAL 9 
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 #EXTINF:-1, TELEFE 
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8 
+https://wisp.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8 
 #EXTINF:-1, EL TRECE
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1, MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, CRONICA TV
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 #EXTINF:-1, A24
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 #EXTINF:-1, TN
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+https://wisp.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 #EXTINF:-1, CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:-1, IP
