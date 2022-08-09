@@ -5,31 +5,34 @@
 
 
 #EXTINF:-1, AMERICA TV
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
 #EXTINF:-1, TV PUBLICA 
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165588.m3u8
 #EXTINF:-1, CANAL 9 
-https://wisp.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165580.m3u8
 #EXTINF:-1, TELEFE 
-https://wisp.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8 
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
 #EXTINF:-1, EL TRECE
-https://wisp.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
+#EXTINF:-1, EL TRECE INTERNACIONAL
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
 #EXTINF:-1, NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165600.m3u8
 #EXTINF:-1, MAGAZINE
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165628.m3u8
 
+#EXTINF:-1, LN+
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
 #EXTINF:-1, CRONICA TV
-https://wisp.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165594.m3u8
 #EXTINF:-1, A24
-https://wisp.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165593.m3u8
 #EXTINF:-1, TN
-https://wisp.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
 #EXTINF:-1, CANAL 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165597.m3u8
 #EXTINF:-1, IP
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165599.m3u8
 
 #EXTINF:-1, TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
@@ -56,46 +59,23 @@ https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1, BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1, TNT
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
-#EXTINF:-1, CINEMAX
-https://ubnet.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
-#EXTINF:-1, SPACEHD
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
-#EXTINF:-1, FX
-https://ubnet.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-#EXTINF:-1, HBO
-https://ubnet.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1, HBO2
-https://ubnet.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1, AMC
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
-#EXTINF:-1, WARMER
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
-
-
 #EXTINF:-1, SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/track_3_6000/playlist.m3u8
 
-#EXTINF:-1, NICKELODEON
-https://ubnet.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF:-1, NICK JR
-https://ubnet.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
-#EXTINF:-1, BOOMERANG
-https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
-#EXTINF:-1, CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1, DISNEY JUNIOR
-https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
-
 #EXTINF:-1, TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
+#EXTINF:-1, TYC SPORTS INTERNACIONAL
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165658.m3u8
+#EXTINF:-1, ESPN 
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
+#EXTINF:-1, FOX SPORTS
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
 #EXTINF:-1, ESPN PREMIUM
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183613.m3u8
 #EXTINF:-1, TNT SPORTS HD
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
 
 
 
