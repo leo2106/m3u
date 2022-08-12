@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1, AMERICA TV
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1, TV PUBLICA 
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165588.m3u8
 #EXTINF:-1, CANAL 9 
@@ -26,7 +26,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
 #EXTINF:-1, CRONICA TV
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165594.m3u8
 #EXTINF:-1, A24
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165593.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 #EXTINF:-1, TN
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
 #EXTINF:-1, CANAL 26
@@ -70,6 +70,10 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165658.m3u8
 #EXTINF:-1, ESPN 
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
+#EXTINF:-1, ESPN 2
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169953.m3u8
+#EXTINF:-1, FOX SPORTS 2
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169957.m3u8
 #EXTINF:-1, FOX SPORTS
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
 #EXTINF:-1, ESPN PREMIUM
