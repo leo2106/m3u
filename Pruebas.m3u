@@ -56,6 +56,8 @@ https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1, BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1, CANAL 10 URUGUAY
+https://cdnw3.zetatv.com.uy/live_edge/_definst_/amlst:9/chunklist_w1746073142_b1800000.m3u8?token=f48067dc-55b6-45a8-8906-c657b95c7f99
 
 #EXTINF:-1, NICK
 https://stationtv.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
@@ -84,6 +86,8 @@ https://stationtv.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 https://stationtv.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1, CINEMAX
 https://stationtv.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+#EXTINF:-1, AMC
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 
 #EXTINF:-1, TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
